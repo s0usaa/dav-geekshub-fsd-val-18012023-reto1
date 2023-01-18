@@ -5,12 +5,12 @@ table{
 
 th{
     background-color: green;
-    border: outset blue 3px;
+    border: solid blue 2px;
     color: lightgreen;
 }
 
 td{
-    border: outset blue 3px;
+    border: solid blue 2px;
     background-color: rgb(53, 223, 53);
 }
 .Fila-2{
