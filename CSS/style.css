@@ -1,12 +1,14 @@
 table{
-    border: solid blue 2px;
-    border-collapse: collapse;
+    border:outset 5px;
+    background-color: blue;
 }
 
 th{
     background-color: green;
     border: solid blue 2px;
     color: lightgreen;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
 td{
