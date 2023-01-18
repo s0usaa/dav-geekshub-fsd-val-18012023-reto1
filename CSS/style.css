@@ -4,7 +4,7 @@ table{
 }
 
 th{
-    background-color: green;
+    background-color: rgb(15, 127, 15);
     border: solid blue 2px;
     color: lightgreen;
     padding-left: 10px;
@@ -13,8 +13,22 @@ th{
 
 td{
     border: solid blue 2px;
-    background-color: rgb(53, 223, 53);
+    background-color: rgb(171, 229, 171);
 }
 .Fila-2{
     background-color: lightgreen;
+}
+
+.moneda{
+    text-align: center;
+}
+
+#col3{
+    background-color: rgb(77, 181, 77);
+    width: 200px;
+}
+
+.col2-moneda{
+    background-color: rgb(77, 181, 77);
+    text-align: center;
 }
